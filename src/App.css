@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  background-color: #904B33;
+  color: white;
+}
+
+p {
+  font-weight: bold;
+}
+
+input {
+  margin: 5px;
+  height: 25px;
+}
+
+button {
+  width: 125px;
+  color: white;
+  margin: 2px;
+}
+
+.primary {
+  background-color: blue;
+}
+
+.success {
+  background-color: green;
+}
+
+.danger {
+  background-color: red;
+}
+
+.rounded {
+  border-radius: 25px;
+  border: 4px solid;
+  padding: 20px;
+  width: 300px;
+  margin-bottom: 25px;
+}
